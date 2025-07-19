@@ -3,7 +3,7 @@ dataset
 *.wav
 *.npy
 __pycache__
-*.mp4
+# *.mp4
 checkpoint
 *.jpg
 __MACOSX
