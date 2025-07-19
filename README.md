@@ -1,10 +1,11 @@
-# WeaverTalk
+# VibyTalk
 
 ## Demo
 
 ### Video Demo
 #### directly inference in web broswer
-[Demo Video](demo/demo.mp4)
+https://github.com/user-attachments/assets/c8746006-6dcc-41b1-a3d3-bdd25530459c
+
 
 ## Quick Start
 
