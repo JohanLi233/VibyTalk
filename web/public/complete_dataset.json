@@ -1,0 +1,3269 @@
+{
+  "dataset_info": {
+    "source_image_dimensions": {
+      "width": 1080,
+      "height": 1920
+    },
+    "config": {
+      "crop_size": 96,
+      "mask_region": [
+        3,
+        3,
+        93,
+        93
+      ]
+    }
+  },
+  "images": [
+    {
+      "frame_id": "0",
+      "full_image": "0_full.webp",
+      "face_image": "0_face.webp",
+      "tensor_file": "0_tensor.bin",
+      "crop_info": {
+        "xmin": 499,
+        "ymin": 569,
+        "xmax": 693,
+        "ymax": 763,
+        "width": 194
+      }
+    },
+    {
+      "frame_id": "1",
+      "full_image": "1_full.webp",
+      "face_image": "1_face.webp",
+      "tensor_file": "1_tensor.bin",
+      "crop_info": {
+        "xmin": 498,
+        "ymin": 569,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "2",
+      "full_image": "2_full.webp",
+      "face_image": "2_face.webp",
+      "tensor_file": "2_tensor.bin",
+      "crop_info": {
+        "xmin": 498,
+        "ymin": 568,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "3",
+      "full_image": "3_full.webp",
+      "face_image": "3_face.webp",
+      "tensor_file": "3_tensor.bin",
+      "crop_info": {
+        "xmin": 498,
+        "ymin": 568,
+        "xmax": 693,
+        "ymax": 763,
+        "width": 195
+      }
+    },
+    {
+      "frame_id": "4",
+      "full_image": "4_full.webp",
+      "face_image": "4_face.webp",
+      "tensor_file": "4_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 568,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "5",
+      "full_image": "5_full.webp",
+      "face_image": "5_face.webp",
+      "tensor_file": "5_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 568,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "6",
+      "full_image": "6_full.webp",
+      "face_image": "6_face.webp",
+      "tensor_file": "6_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 763,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "7",
+      "full_image": "7_full.webp",
+      "face_image": "7_face.webp",
+      "tensor_file": "7_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "8",
+      "full_image": "8_full.webp",
+      "face_image": "8_face.webp",
+      "tensor_file": "8_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "9",
+      "full_image": "9_full.webp",
+      "face_image": "9_face.webp",
+      "tensor_file": "9_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "10",
+      "full_image": "10_full.webp",
+      "face_image": "10_face.webp",
+      "tensor_file": "10_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "11",
+      "full_image": "11_full.webp",
+      "face_image": "11_face.webp",
+      "tensor_file": "11_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "12",
+      "full_image": "12_full.webp",
+      "face_image": "12_face.webp",
+      "tensor_file": "12_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "13",
+      "full_image": "13_full.webp",
+      "face_image": "13_face.webp",
+      "tensor_file": "13_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "14",
+      "full_image": "14_full.webp",
+      "face_image": "14_face.webp",
+      "tensor_file": "14_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "15",
+      "full_image": "15_full.webp",
+      "face_image": "15_face.webp",
+      "tensor_file": "15_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "16",
+      "full_image": "16_full.webp",
+      "face_image": "16_face.webp",
+      "tensor_file": "16_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 566,
+        "xmax": 695,
+        "ymax": 767,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "17",
+      "full_image": "17_full.webp",
+      "face_image": "17_face.webp",
+      "tensor_file": "17_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "18",
+      "full_image": "18_full.webp",
+      "face_image": "18_face.webp",
+      "tensor_file": "18_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "19",
+      "full_image": "19_full.webp",
+      "face_image": "19_face.webp",
+      "tensor_file": "19_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "20",
+      "full_image": "20_full.webp",
+      "face_image": "20_face.webp",
+      "tensor_file": "20_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "21",
+      "full_image": "21_full.webp",
+      "face_image": "21_face.webp",
+      "tensor_file": "21_tensor.bin",
+      "crop_info": {
+        "xmin": 493,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 767,
+        "width": 202
+      }
+    },
+    {
+      "frame_id": "22",
+      "full_image": "22_full.webp",
+      "face_image": "22_face.webp",
+      "tensor_file": "22_tensor.bin",
+      "crop_info": {
+        "xmin": 493,
+        "ymin": 564,
+        "xmax": 696,
+        "ymax": 767,
+        "width": 203
+      }
+    },
+    {
+      "frame_id": "23",
+      "full_image": "23_full.webp",
+      "face_image": "23_face.webp",
+      "tensor_file": "23_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 564,
+        "xmax": 696,
+        "ymax": 768,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "24",
+      "full_image": "24_full.webp",
+      "face_image": "24_face.webp",
+      "tensor_file": "24_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 564,
+        "xmax": 696,
+        "ymax": 768,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "25",
+      "full_image": "25_full.webp",
+      "face_image": "25_face.webp",
+      "tensor_file": "25_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 563,
+        "xmax": 696,
+        "ymax": 767,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "26",
+      "full_image": "26_full.webp",
+      "face_image": "26_face.webp",
+      "tensor_file": "26_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 768,
+        "width": 205
+      }
+    },
+    {
+      "frame_id": "27",
+      "full_image": "27_full.webp",
+      "face_image": "27_face.webp",
+      "tensor_file": "27_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 769,
+        "width": 206
+      }
+    },
+    {
+      "frame_id": "28",
+      "full_image": "28_full.webp",
+      "face_image": "28_face.webp",
+      "tensor_file": "28_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 769,
+        "width": 206
+      }
+    },
+    {
+      "frame_id": "29",
+      "full_image": "29_full.webp",
+      "face_image": "29_face.webp",
+      "tensor_file": "29_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 698,
+        "ymax": 770,
+        "width": 207
+      }
+    },
+    {
+      "frame_id": "30",
+      "full_image": "30_full.webp",
+      "face_image": "30_face.webp",
+      "tensor_file": "30_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 698,
+        "ymax": 770,
+        "width": 208
+      }
+    },
+    {
+      "frame_id": "31",
+      "full_image": "31_full.webp",
+      "face_image": "31_face.webp",
+      "tensor_file": "31_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 698,
+        "ymax": 770,
+        "width": 208
+      }
+    },
+    {
+      "frame_id": "32",
+      "full_image": "32_full.webp",
+      "face_image": "32_face.webp",
+      "tensor_file": "32_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 209
+      }
+    },
+    {
+      "frame_id": "33",
+      "full_image": "33_full.webp",
+      "face_image": "33_face.webp",
+      "tensor_file": "33_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 209
+      }
+    },
+    {
+      "frame_id": "34",
+      "full_image": "34_full.webp",
+      "face_image": "34_face.webp",
+      "tensor_file": "34_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 210
+      }
+    },
+    {
+      "frame_id": "35",
+      "full_image": "35_full.webp",
+      "face_image": "35_face.webp",
+      "tensor_file": "35_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 210
+      }
+    },
+    {
+      "frame_id": "36",
+      "full_image": "36_full.webp",
+      "face_image": "36_face.webp",
+      "tensor_file": "36_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 700,
+        "ymax": 772,
+        "width": 211
+      }
+    },
+    {
+      "frame_id": "37",
+      "full_image": "37_full.webp",
+      "face_image": "37_face.webp",
+      "tensor_file": "37_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 700,
+        "ymax": 772,
+        "width": 211
+      }
+    },
+    {
+      "frame_id": "38",
+      "full_image": "38_full.webp",
+      "face_image": "38_face.webp",
+      "tensor_file": "38_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 700,
+        "ymax": 772,
+        "width": 212
+      }
+    },
+    {
+      "frame_id": "39",
+      "full_image": "39_full.webp",
+      "face_image": "39_face.webp",
+      "tensor_file": "39_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "40",
+      "full_image": "40_full.webp",
+      "face_image": "40_face.webp",
+      "tensor_file": "40_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "41",
+      "full_image": "41_full.webp",
+      "face_image": "41_face.webp",
+      "tensor_file": "41_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "42",
+      "full_image": "42_full.webp",
+      "face_image": "42_face.webp",
+      "tensor_file": "42_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 774,
+        "width": 214
+      }
+    },
+    {
+      "frame_id": "43",
+      "full_image": "43_full.webp",
+      "face_image": "43_face.webp",
+      "tensor_file": "43_tensor.bin",
+      "crop_info": {
+        "xmin": 487,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 775,
+        "width": 215
+      }
+    },
+    {
+      "frame_id": "44",
+      "full_image": "44_full.webp",
+      "face_image": "44_face.webp",
+      "tensor_file": "44_tensor.bin",
+      "crop_info": {
+        "xmin": 487,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 775,
+        "width": 215
+      }
+    },
+    {
+      "frame_id": "45",
+      "full_image": "45_full.webp",
+      "face_image": "45_face.webp",
+      "tensor_file": "45_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 703,
+        "ymax": 777,
+        "width": 217
+      }
+    },
+    {
+      "frame_id": "46",
+      "full_image": "46_full.webp",
+      "face_image": "46_face.webp",
+      "tensor_file": "46_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 703,
+        "ymax": 777,
+        "width": 217
+      }
+    },
+    {
+      "frame_id": "47",
+      "full_image": "47_full.webp",
+      "face_image": "47_face.webp",
+      "tensor_file": "47_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 704,
+        "ymax": 778,
+        "width": 218
+      }
+    },
+    {
+      "frame_id": "48",
+      "full_image": "48_full.webp",
+      "face_image": "48_face.webp",
+      "tensor_file": "48_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 704,
+        "ymax": 778,
+        "width": 218
+      }
+    },
+    {
+      "frame_id": "49",
+      "full_image": "49_full.webp",
+      "face_image": "49_face.webp",
+      "tensor_file": "49_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "50",
+      "full_image": "50_full.webp",
+      "face_image": "50_face.webp",
+      "tensor_file": "50_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "51",
+      "full_image": "51_full.webp",
+      "face_image": "51_face.webp",
+      "tensor_file": "51_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "52",
+      "full_image": "52_full.webp",
+      "face_image": "52_face.webp",
+      "tensor_file": "52_tensor.bin",
+      "crop_info": {
+        "xmin": 484,
+        "ymin": 560,
+        "xmax": 706,
+        "ymax": 782,
+        "width": 222
+      }
+    },
+    {
+      "frame_id": "53",
+      "full_image": "53_full.webp",
+      "face_image": "53_face.webp",
+      "tensor_file": "53_tensor.bin",
+      "crop_info": {
+        "xmin": 484,
+        "ymin": 560,
+        "xmax": 706,
+        "ymax": 782,
+        "width": 222
+      }
+    },
+    {
+      "frame_id": "54",
+      "full_image": "54_full.webp",
+      "face_image": "54_face.webp",
+      "tensor_file": "54_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "55",
+      "full_image": "55_full.webp",
+      "face_image": "55_face.webp",
+      "tensor_file": "55_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "56",
+      "full_image": "56_full.webp",
+      "face_image": "56_face.webp",
+      "tensor_file": "56_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "57",
+      "full_image": "57_full.webp",
+      "face_image": "57_face.webp",
+      "tensor_file": "57_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 785,
+        "width": 225
+      }
+    },
+    {
+      "frame_id": "58",
+      "full_image": "58_full.webp",
+      "face_image": "58_face.webp",
+      "tensor_file": "58_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 560,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 226
+      }
+    },
+    {
+      "frame_id": "59",
+      "full_image": "59_full.webp",
+      "face_image": "59_face.webp",
+      "tensor_file": "59_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 560,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 226
+      }
+    },
+    {
+      "frame_id": "60",
+      "full_image": "60_full.webp",
+      "face_image": "60_face.webp",
+      "tensor_file": "60_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 227
+      }
+    },
+    {
+      "frame_id": "61",
+      "full_image": "61_full.webp",
+      "face_image": "61_face.webp",
+      "tensor_file": "61_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 227
+      }
+    },
+    {
+      "frame_id": "62",
+      "full_image": "62_full.webp",
+      "face_image": "62_face.webp",
+      "tensor_file": "62_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 709,
+        "ymax": 787,
+        "width": 228
+      }
+    },
+    {
+      "frame_id": "63",
+      "full_image": "63_full.webp",
+      "face_image": "63_face.webp",
+      "tensor_file": "63_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 710,
+        "ymax": 788,
+        "width": 229
+      }
+    },
+    {
+      "frame_id": "64",
+      "full_image": "64_full.webp",
+      "face_image": "64_face.webp",
+      "tensor_file": "64_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 560,
+        "xmax": 710,
+        "ymax": 790,
+        "width": 230
+      }
+    },
+    {
+      "frame_id": "65",
+      "full_image": "65_full.webp",
+      "face_image": "65_face.webp",
+      "tensor_file": "65_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 560,
+        "xmax": 710,
+        "ymax": 790,
+        "width": 230
+      }
+    },
+    {
+      "frame_id": "66",
+      "full_image": "66_full.webp",
+      "face_image": "66_face.webp",
+      "tensor_file": "66_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 559,
+        "xmax": 711,
+        "ymax": 790,
+        "width": 231
+      }
+    },
+    {
+      "frame_id": "67",
+      "full_image": "67_full.webp",
+      "face_image": "67_face.webp",
+      "tensor_file": "67_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 791,
+        "width": 232
+      }
+    },
+    {
+      "frame_id": "68",
+      "full_image": "68_full.webp",
+      "face_image": "68_face.webp",
+      "tensor_file": "68_tensor.bin",
+      "crop_info": {
+        "xmin": 479,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 792,
+        "width": 233
+      }
+    },
+    {
+      "frame_id": "69",
+      "full_image": "69_full.webp",
+      "face_image": "69_face.webp",
+      "tensor_file": "69_tensor.bin",
+      "crop_info": {
+        "xmin": 479,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 792,
+        "width": 233
+      }
+    },
+    {
+      "frame_id": "70",
+      "full_image": "70_full.webp",
+      "face_image": "70_face.webp",
+      "tensor_file": "70_tensor.bin",
+      "crop_info": {
+        "xmin": 478,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 793,
+        "width": 234
+      }
+    },
+    {
+      "frame_id": "71",
+      "full_image": "71_full.webp",
+      "face_image": "71_face.webp",
+      "tensor_file": "71_tensor.bin",
+      "crop_info": {
+        "xmin": 478,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 794,
+        "width": 235
+      }
+    },
+    {
+      "frame_id": "72",
+      "full_image": "72_full.webp",
+      "face_image": "72_face.webp",
+      "tensor_file": "72_tensor.bin",
+      "crop_info": {
+        "xmin": 477,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 795,
+        "width": 236
+      }
+    },
+    {
+      "frame_id": "73",
+      "full_image": "73_full.webp",
+      "face_image": "73_face.webp",
+      "tensor_file": "73_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 796,
+        "width": 237
+      }
+    },
+    {
+      "frame_id": "74",
+      "full_image": "74_full.webp",
+      "face_image": "74_face.webp",
+      "tensor_file": "74_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 714,
+        "ymax": 797,
+        "width": 238
+      }
+    },
+    {
+      "frame_id": "75",
+      "full_image": "75_full.webp",
+      "face_image": "75_face.webp",
+      "tensor_file": "75_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 796,
+        "width": 237
+      }
+    },
+    {
+      "frame_id": "76",
+      "full_image": "76_full.webp",
+      "face_image": "76_face.webp",
+      "tensor_file": "76_tensor.bin",
+      "crop_info": {
+        "xmin": 475,
+        "ymin": 559,
+        "xmax": 714,
+        "ymax": 798,
+        "width": 239
+      }
+    },
+    {
+      "frame_id": "77",
+      "full_image": "77_full.webp",
+      "face_image": "77_face.webp",
+      "tensor_file": "77_tensor.bin",
+      "crop_info": {
+        "xmin": 474,
+        "ymin": 559,
+        "xmax": 714,
+        "ymax": 799,
+        "width": 240
+      }
+    },
+    {
+      "frame_id": "78",
+      "full_image": "78_full.webp",
+      "face_image": "78_face.webp",
+      "tensor_file": "78_tensor.bin",
+      "crop_info": {
+        "xmin": 473,
+        "ymin": 559,
+        "xmax": 715,
+        "ymax": 801,
+        "width": 242
+      }
+    },
+    {
+      "frame_id": "79",
+      "full_image": "79_full.webp",
+      "face_image": "79_face.webp",
+      "tensor_file": "79_tensor.bin",
+      "crop_info": {
+        "xmin": 473,
+        "ymin": 559,
+        "xmax": 715,
+        "ymax": 801,
+        "width": 242
+      }
+    },
+    {
+      "frame_id": "80",
+      "full_image": "80_full.webp",
+      "face_image": "80_face.webp",
+      "tensor_file": "80_tensor.bin",
+      "crop_info": {
+        "xmin": 472,
+        "ymin": 558,
+        "xmax": 716,
+        "ymax": 802,
+        "width": 244
+      }
+    },
+    {
+      "frame_id": "81",
+      "full_image": "81_full.webp",
+      "face_image": "81_face.webp",
+      "tensor_file": "81_tensor.bin",
+      "crop_info": {
+        "xmin": 472,
+        "ymin": 559,
+        "xmax": 716,
+        "ymax": 803,
+        "width": 244
+      }
+    },
+    {
+      "frame_id": "82",
+      "full_image": "82_full.webp",
+      "face_image": "82_face.webp",
+      "tensor_file": "82_tensor.bin",
+      "crop_info": {
+        "xmin": 471,
+        "ymin": 559,
+        "xmax": 716,
+        "ymax": 804,
+        "width": 245
+      }
+    },
+    {
+      "frame_id": "83",
+      "full_image": "83_full.webp",
+      "face_image": "83_face.webp",
+      "tensor_file": "83_tensor.bin",
+      "crop_info": {
+        "xmin": 471,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 805,
+        "width": 246
+      }
+    },
+    {
+      "frame_id": "84",
+      "full_image": "84_full.webp",
+      "face_image": "84_face.webp",
+      "tensor_file": "84_tensor.bin",
+      "crop_info": {
+        "xmin": 470,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 806,
+        "width": 247
+      }
+    },
+    {
+      "frame_id": "85",
+      "full_image": "85_full.webp",
+      "face_image": "85_face.webp",
+      "tensor_file": "85_tensor.bin",
+      "crop_info": {
+        "xmin": 469,
+        "ymin": 560,
+        "xmax": 717,
+        "ymax": 808,
+        "width": 248
+      }
+    },
+    {
+      "frame_id": "86",
+      "full_image": "86_full.webp",
+      "face_image": "86_face.webp",
+      "tensor_file": "86_tensor.bin",
+      "crop_info": {
+        "xmin": 470,
+        "ymin": 560,
+        "xmax": 717,
+        "ymax": 807,
+        "width": 247
+      }
+    },
+    {
+      "frame_id": "87",
+      "full_image": "87_full.webp",
+      "face_image": "87_face.webp",
+      "tensor_file": "87_tensor.bin",
+      "crop_info": {
+        "xmin": 468,
+        "ymin": 560,
+        "xmax": 718,
+        "ymax": 810,
+        "width": 250
+      }
+    },
+    {
+      "frame_id": "88",
+      "full_image": "88_full.webp",
+      "face_image": "88_face.webp",
+      "tensor_file": "88_tensor.bin",
+      "crop_info": {
+        "xmin": 468,
+        "ymin": 560,
+        "xmax": 718,
+        "ymax": 810,
+        "width": 250
+      }
+    },
+    {
+      "frame_id": "89",
+      "full_image": "89_full.webp",
+      "face_image": "89_face.webp",
+      "tensor_file": "89_tensor.bin",
+      "crop_info": {
+        "xmin": 467,
+        "ymin": 560,
+        "xmax": 718,
+        "ymax": 811,
+        "width": 251
+      }
+    },
+    {
+      "frame_id": "90",
+      "full_image": "90_full.webp",
+      "face_image": "90_face.webp",
+      "tensor_file": "90_tensor.bin",
+      "crop_info": {
+        "xmin": 467,
+        "ymin": 560,
+        "xmax": 719,
+        "ymax": 812,
+        "width": 252
+      }
+    },
+    {
+      "frame_id": "91",
+      "full_image": "91_full.webp",
+      "face_image": "91_face.webp",
+      "tensor_file": "91_tensor.bin",
+      "crop_info": {
+        "xmin": 467,
+        "ymin": 560,
+        "xmax": 719,
+        "ymax": 812,
+        "width": 252
+      }
+    },
+    {
+      "frame_id": "92",
+      "full_image": "92_full.webp",
+      "face_image": "92_face.webp",
+      "tensor_file": "92_tensor.bin",
+      "crop_info": {
+        "xmin": 466,
+        "ymin": 560,
+        "xmax": 720,
+        "ymax": 814,
+        "width": 254
+      }
+    },
+    {
+      "frame_id": "93",
+      "full_image": "93_full.webp",
+      "face_image": "93_face.webp",
+      "tensor_file": "93_tensor.bin",
+      "crop_info": {
+        "xmin": 466,
+        "ymin": 560,
+        "xmax": 720,
+        "ymax": 814,
+        "width": 254
+      }
+    },
+    {
+      "frame_id": "94",
+      "full_image": "94_full.webp",
+      "face_image": "94_face.webp",
+      "tensor_file": "94_tensor.bin",
+      "crop_info": {
+        "xmin": 465,
+        "ymin": 561,
+        "xmax": 720,
+        "ymax": 816,
+        "width": 255
+      }
+    },
+    {
+      "frame_id": "95",
+      "full_image": "95_full.webp",
+      "face_image": "95_face.webp",
+      "tensor_file": "95_tensor.bin",
+      "crop_info": {
+        "xmin": 465,
+        "ymin": 561,
+        "xmax": 721,
+        "ymax": 817,
+        "width": 256
+      }
+    },
+    {
+      "frame_id": "96",
+      "full_image": "96_full.webp",
+      "face_image": "96_face.webp",
+      "tensor_file": "96_tensor.bin",
+      "crop_info": {
+        "xmin": 464,
+        "ymin": 561,
+        "xmax": 722,
+        "ymax": 819,
+        "width": 258
+      }
+    },
+    {
+      "frame_id": "97",
+      "full_image": "97_full.webp",
+      "face_image": "97_face.webp",
+      "tensor_file": "97_tensor.bin",
+      "crop_info": {
+        "xmin": 464,
+        "ymin": 561,
+        "xmax": 722,
+        "ymax": 819,
+        "width": 258
+      }
+    },
+    {
+      "frame_id": "98",
+      "full_image": "98_full.webp",
+      "face_image": "98_face.webp",
+      "tensor_file": "98_tensor.bin",
+      "crop_info": {
+        "xmin": 463,
+        "ymin": 561,
+        "xmax": 723,
+        "ymax": 821,
+        "width": 260
+      }
+    },
+    {
+      "frame_id": "99",
+      "full_image": "99_full.webp",
+      "face_image": "99_face.webp",
+      "tensor_file": "99_tensor.bin",
+      "crop_info": {
+        "xmin": 463,
+        "ymin": 562,
+        "xmax": 724,
+        "ymax": 823,
+        "width": 261
+      }
+    },
+    {
+      "frame_id": "100",
+      "full_image": "100_full.webp",
+      "face_image": "100_face.webp",
+      "tensor_file": "100_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 725,
+        "ymax": 825,
+        "width": 263
+      }
+    },
+    {
+      "frame_id": "101",
+      "full_image": "101_full.webp",
+      "face_image": "101_face.webp",
+      "tensor_file": "101_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 725,
+        "ymax": 825,
+        "width": 263
+      }
+    },
+    {
+      "frame_id": "102",
+      "full_image": "102_full.webp",
+      "face_image": "102_face.webp",
+      "tensor_file": "102_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 726,
+        "ymax": 826,
+        "width": 264
+      }
+    },
+    {
+      "frame_id": "103",
+      "full_image": "103_full.webp",
+      "face_image": "103_face.webp",
+      "tensor_file": "103_tensor.bin",
+      "crop_info": {
+        "xmin": 461,
+        "ymin": 563,
+        "xmax": 727,
+        "ymax": 829,
+        "width": 266
+      }
+    },
+    {
+      "frame_id": "104",
+      "full_image": "104_full.webp",
+      "face_image": "104_face.webp",
+      "tensor_file": "104_tensor.bin",
+      "crop_info": {
+        "xmin": 460,
+        "ymin": 563,
+        "xmax": 728,
+        "ymax": 831,
+        "width": 268
+      }
+    },
+    {
+      "frame_id": "105",
+      "full_image": "105_full.webp",
+      "face_image": "105_face.webp",
+      "tensor_file": "105_tensor.bin",
+      "crop_info": {
+        "xmin": 460,
+        "ymin": 563,
+        "xmax": 729,
+        "ymax": 832,
+        "width": 269
+      }
+    },
+    {
+      "frame_id": "106",
+      "full_image": "106_full.webp",
+      "face_image": "106_face.webp",
+      "tensor_file": "106_tensor.bin",
+      "crop_info": {
+        "xmin": 459,
+        "ymin": 564,
+        "xmax": 729,
+        "ymax": 834,
+        "width": 270
+      }
+    },
+    {
+      "frame_id": "107",
+      "full_image": "107_full.webp",
+      "face_image": "107_face.webp",
+      "tensor_file": "107_tensor.bin",
+      "crop_info": {
+        "xmin": 459,
+        "ymin": 564,
+        "xmax": 730,
+        "ymax": 835,
+        "width": 271
+      }
+    },
+    {
+      "frame_id": "108",
+      "full_image": "108_full.webp",
+      "face_image": "108_face.webp",
+      "tensor_file": "108_tensor.bin",
+      "crop_info": {
+        "xmin": 459,
+        "ymin": 564,
+        "xmax": 731,
+        "ymax": 836,
+        "width": 272
+      }
+    },
+    {
+      "frame_id": "109",
+      "full_image": "109_full.webp",
+      "face_image": "109_face.webp",
+      "tensor_file": "109_tensor.bin",
+      "crop_info": {
+        "xmin": 458,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 838,
+        "width": 273
+      }
+    },
+    {
+      "frame_id": "110",
+      "full_image": "110_full.webp",
+      "face_image": "110_face.webp",
+      "tensor_file": "110_tensor.bin",
+      "crop_info": {
+        "xmin": 457,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 839,
+        "width": 274
+      }
+    },
+    {
+      "frame_id": "111",
+      "full_image": "111_full.webp",
+      "face_image": "111_face.webp",
+      "tensor_file": "111_tensor.bin",
+      "crop_info": {
+        "xmin": 457,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 839,
+        "width": 274
+      }
+    },
+    {
+      "frame_id": "112",
+      "full_image": "112_full.webp",
+      "face_image": "112_face.webp",
+      "tensor_file": "112_tensor.bin",
+      "crop_info": {
+        "xmin": 456,
+        "ymin": 566,
+        "xmax": 733,
+        "ymax": 843,
+        "width": 277
+      }
+    },
+    {
+      "frame_id": "113",
+      "full_image": "113_full.webp",
+      "face_image": "113_face.webp",
+      "tensor_file": "113_tensor.bin",
+      "crop_info": {
+        "xmin": 456,
+        "ymin": 566,
+        "xmax": 733,
+        "ymax": 843,
+        "width": 277
+      }
+    },
+    {
+      "frame_id": "114",
+      "full_image": "114_full.webp",
+      "face_image": "114_face.webp",
+      "tensor_file": "114_tensor.bin",
+      "crop_info": {
+        "xmin": 455,
+        "ymin": 566,
+        "xmax": 734,
+        "ymax": 845,
+        "width": 279
+      }
+    },
+    {
+      "frame_id": "115",
+      "full_image": "115_full.webp",
+      "face_image": "115_face.webp",
+      "tensor_file": "115_tensor.bin",
+      "crop_info": {
+        "xmin": 455,
+        "ymin": 567,
+        "xmax": 735,
+        "ymax": 847,
+        "width": 280
+      }
+    },
+    {
+      "frame_id": "116",
+      "full_image": "116_full.webp",
+      "face_image": "116_face.webp",
+      "tensor_file": "116_tensor.bin",
+      "crop_info": {
+        "xmin": 454,
+        "ymin": 567,
+        "xmax": 736,
+        "ymax": 849,
+        "width": 282
+      }
+    },
+    {
+      "frame_id": "117",
+      "full_image": "117_full.webp",
+      "face_image": "117_face.webp",
+      "tensor_file": "117_tensor.bin",
+      "crop_info": {
+        "xmin": 454,
+        "ymin": 568,
+        "xmax": 737,
+        "ymax": 851,
+        "width": 283
+      }
+    },
+    {
+      "frame_id": "118",
+      "full_image": "118_full.webp",
+      "face_image": "118_face.webp",
+      "tensor_file": "118_tensor.bin",
+      "crop_info": {
+        "xmin": 453,
+        "ymin": 568,
+        "xmax": 737,
+        "ymax": 852,
+        "width": 284
+      }
+    },
+    {
+      "frame_id": "119",
+      "full_image": "119_full.webp",
+      "face_image": "119_face.webp",
+      "tensor_file": "119_tensor.bin",
+      "crop_info": {
+        "xmin": 452,
+        "ymin": 569,
+        "xmax": 738,
+        "ymax": 855,
+        "width": 286
+      }
+    },
+    {
+      "frame_id": "120",
+      "full_image": "120_full.webp",
+      "face_image": "120_face.webp",
+      "tensor_file": "120_tensor.bin",
+      "crop_info": {
+        "xmin": 453,
+        "ymin": 569,
+        "xmax": 739,
+        "ymax": 855,
+        "width": 286
+      }
+    },
+    {
+      "frame_id": "121",
+      "full_image": "121_full.webp",
+      "face_image": "121_face.webp",
+      "tensor_file": "121_tensor.bin",
+      "crop_info": {
+        "xmin": 452,
+        "ymin": 569,
+        "xmax": 740,
+        "ymax": 857,
+        "width": 288
+      }
+    },
+    {
+      "frame_id": "122",
+      "full_image": "122_full.webp",
+      "face_image": "122_face.webp",
+      "tensor_file": "122_tensor.bin",
+      "crop_info": {
+        "xmin": 452,
+        "ymin": 570,
+        "xmax": 741,
+        "ymax": 859,
+        "width": 289
+      }
+    },
+    {
+      "frame_id": "123",
+      "full_image": "123_full.webp",
+      "face_image": "123_face.webp",
+      "tensor_file": "123_tensor.bin",
+      "crop_info": {
+        "xmin": 451,
+        "ymin": 570,
+        "xmax": 742,
+        "ymax": 861,
+        "width": 291
+      }
+    },
+    {
+      "frame_id": "124",
+      "full_image": "124_full.webp",
+      "face_image": "124_face.webp",
+      "tensor_file": "124_tensor.bin",
+      "crop_info": {
+        "xmin": 450,
+        "ymin": 570,
+        "xmax": 743,
+        "ymax": 863,
+        "width": 293
+      }
+    },
+    {
+      "frame_id": "125",
+      "full_image": "125_full.webp",
+      "face_image": "125_face.webp",
+      "tensor_file": "125_tensor.bin",
+      "crop_info": {
+        "xmin": 451,
+        "ymin": 570,
+        "xmax": 742,
+        "ymax": 861,
+        "width": 291
+      }
+    },
+    {
+      "frame_id": "126",
+      "full_image": "126_full.webp",
+      "face_image": "126_face.webp",
+      "tensor_file": "126_tensor.bin",
+      "crop_info": {
+        "xmin": 451,
+        "ymin": 569,
+        "xmax": 741,
+        "ymax": 859,
+        "width": 290
+      }
+    },
+    {
+      "frame_id": "127",
+      "full_image": "127_full.webp",
+      "face_image": "127_face.webp",
+      "tensor_file": "127_tensor.bin",
+      "crop_info": {
+        "xmin": 452,
+        "ymin": 569,
+        "xmax": 740,
+        "ymax": 857,
+        "width": 288
+      }
+    },
+    {
+      "frame_id": "128",
+      "full_image": "128_full.webp",
+      "face_image": "128_face.webp",
+      "tensor_file": "128_tensor.bin",
+      "crop_info": {
+        "xmin": 452,
+        "ymin": 569,
+        "xmax": 739,
+        "ymax": 856,
+        "width": 287
+      }
+    },
+    {
+      "frame_id": "129",
+      "full_image": "129_full.webp",
+      "face_image": "129_face.webp",
+      "tensor_file": "129_tensor.bin",
+      "crop_info": {
+        "xmin": 453,
+        "ymin": 569,
+        "xmax": 738,
+        "ymax": 854,
+        "width": 285
+      }
+    },
+    {
+      "frame_id": "130",
+      "full_image": "130_full.webp",
+      "face_image": "130_face.webp",
+      "tensor_file": "130_tensor.bin",
+      "crop_info": {
+        "xmin": 453,
+        "ymin": 568,
+        "xmax": 738,
+        "ymax": 853,
+        "width": 285
+      }
+    },
+    {
+      "frame_id": "131",
+      "full_image": "131_full.webp",
+      "face_image": "131_face.webp",
+      "tensor_file": "131_tensor.bin",
+      "crop_info": {
+        "xmin": 454,
+        "ymin": 568,
+        "xmax": 737,
+        "ymax": 851,
+        "width": 283
+      }
+    },
+    {
+      "frame_id": "132",
+      "full_image": "132_full.webp",
+      "face_image": "132_face.webp",
+      "tensor_file": "132_tensor.bin",
+      "crop_info": {
+        "xmin": 455,
+        "ymin": 567,
+        "xmax": 736,
+        "ymax": 848,
+        "width": 281
+      }
+    },
+    {
+      "frame_id": "133",
+      "full_image": "133_full.webp",
+      "face_image": "133_face.webp",
+      "tensor_file": "133_tensor.bin",
+      "crop_info": {
+        "xmin": 455,
+        "ymin": 567,
+        "xmax": 735,
+        "ymax": 847,
+        "width": 280
+      }
+    },
+    {
+      "frame_id": "134",
+      "full_image": "134_full.webp",
+      "face_image": "134_face.webp",
+      "tensor_file": "134_tensor.bin",
+      "crop_info": {
+        "xmin": 455,
+        "ymin": 566,
+        "xmax": 734,
+        "ymax": 845,
+        "width": 279
+      }
+    },
+    {
+      "frame_id": "135",
+      "full_image": "135_full.webp",
+      "face_image": "135_face.webp",
+      "tensor_file": "135_tensor.bin",
+      "crop_info": {
+        "xmin": 456,
+        "ymin": 566,
+        "xmax": 733,
+        "ymax": 843,
+        "width": 277
+      }
+    },
+    {
+      "frame_id": "136",
+      "full_image": "136_full.webp",
+      "face_image": "136_face.webp",
+      "tensor_file": "136_tensor.bin",
+      "crop_info": {
+        "xmin": 457,
+        "ymin": 566,
+        "xmax": 733,
+        "ymax": 842,
+        "width": 276
+      }
+    },
+    {
+      "frame_id": "137",
+      "full_image": "137_full.webp",
+      "face_image": "137_face.webp",
+      "tensor_file": "137_tensor.bin",
+      "crop_info": {
+        "xmin": 457,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 839,
+        "width": 274
+      }
+    },
+    {
+      "frame_id": "138",
+      "full_image": "138_full.webp",
+      "face_image": "138_face.webp",
+      "tensor_file": "138_tensor.bin",
+      "crop_info": {
+        "xmin": 458,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 838,
+        "width": 273
+      }
+    },
+    {
+      "frame_id": "139",
+      "full_image": "139_full.webp",
+      "face_image": "139_face.webp",
+      "tensor_file": "139_tensor.bin",
+      "crop_info": {
+        "xmin": 458,
+        "ymin": 565,
+        "xmax": 731,
+        "ymax": 838,
+        "width": 273
+      }
+    },
+    {
+      "frame_id": "140",
+      "full_image": "140_full.webp",
+      "face_image": "140_face.webp",
+      "tensor_file": "140_tensor.bin",
+      "crop_info": {
+        "xmin": 459,
+        "ymin": 564,
+        "xmax": 731,
+        "ymax": 836,
+        "width": 272
+      }
+    },
+    {
+      "frame_id": "141",
+      "full_image": "141_full.webp",
+      "face_image": "141_face.webp",
+      "tensor_file": "141_tensor.bin",
+      "crop_info": {
+        "xmin": 459,
+        "ymin": 564,
+        "xmax": 730,
+        "ymax": 835,
+        "width": 271
+      }
+    },
+    {
+      "frame_id": "142",
+      "full_image": "142_full.webp",
+      "face_image": "142_face.webp",
+      "tensor_file": "142_tensor.bin",
+      "crop_info": {
+        "xmin": 460,
+        "ymin": 564,
+        "xmax": 729,
+        "ymax": 833,
+        "width": 269
+      }
+    },
+    {
+      "frame_id": "143",
+      "full_image": "143_full.webp",
+      "face_image": "143_face.webp",
+      "tensor_file": "143_tensor.bin",
+      "crop_info": {
+        "xmin": 460,
+        "ymin": 563,
+        "xmax": 729,
+        "ymax": 832,
+        "width": 269
+      }
+    },
+    {
+      "frame_id": "144",
+      "full_image": "144_full.webp",
+      "face_image": "144_face.webp",
+      "tensor_file": "144_tensor.bin",
+      "crop_info": {
+        "xmin": 460,
+        "ymin": 563,
+        "xmax": 728,
+        "ymax": 831,
+        "width": 268
+      }
+    },
+    {
+      "frame_id": "145",
+      "full_image": "145_full.webp",
+      "face_image": "145_face.webp",
+      "tensor_file": "145_tensor.bin",
+      "crop_info": {
+        "xmin": 461,
+        "ymin": 563,
+        "xmax": 727,
+        "ymax": 829,
+        "width": 266
+      }
+    },
+    {
+      "frame_id": "146",
+      "full_image": "146_full.webp",
+      "face_image": "146_face.webp",
+      "tensor_file": "146_tensor.bin",
+      "crop_info": {
+        "xmin": 461,
+        "ymin": 563,
+        "xmax": 726,
+        "ymax": 828,
+        "width": 265
+      }
+    },
+    {
+      "frame_id": "147",
+      "full_image": "147_full.webp",
+      "face_image": "147_face.webp",
+      "tensor_file": "147_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 726,
+        "ymax": 826,
+        "width": 264
+      }
+    },
+    {
+      "frame_id": "148",
+      "full_image": "148_full.webp",
+      "face_image": "148_face.webp",
+      "tensor_file": "148_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 725,
+        "ymax": 825,
+        "width": 263
+      }
+    },
+    {
+      "frame_id": "149",
+      "full_image": "149_full.webp",
+      "face_image": "149_face.webp",
+      "tensor_file": "149_tensor.bin",
+      "crop_info": {
+        "xmin": 462,
+        "ymin": 562,
+        "xmax": 724,
+        "ymax": 824,
+        "width": 262
+      }
+    },
+    {
+      "frame_id": "150",
+      "full_image": "150_full.webp",
+      "face_image": "150_face.webp",
+      "tensor_file": "150_tensor.bin",
+      "crop_info": {
+        "xmin": 463,
+        "ymin": 561,
+        "xmax": 723,
+        "ymax": 821,
+        "width": 260
+      }
+    },
+    {
+      "frame_id": "151",
+      "full_image": "151_full.webp",
+      "face_image": "151_face.webp",
+      "tensor_file": "151_tensor.bin",
+      "crop_info": {
+        "xmin": 464,
+        "ymin": 561,
+        "xmax": 722,
+        "ymax": 819,
+        "width": 258
+      }
+    },
+    {
+      "frame_id": "152",
+      "full_image": "152_full.webp",
+      "face_image": "152_face.webp",
+      "tensor_file": "152_tensor.bin",
+      "crop_info": {
+        "xmin": 464,
+        "ymin": 561,
+        "xmax": 722,
+        "ymax": 819,
+        "width": 258
+      }
+    },
+    {
+      "frame_id": "153",
+      "full_image": "153_full.webp",
+      "face_image": "153_face.webp",
+      "tensor_file": "153_tensor.bin",
+      "crop_info": {
+        "xmin": 465,
+        "ymin": 561,
+        "xmax": 721,
+        "ymax": 817,
+        "width": 256
+      }
+    },
+    {
+      "frame_id": "154",
+      "full_image": "154_full.webp",
+      "face_image": "154_face.webp",
+      "tensor_file": "154_tensor.bin",
+      "crop_info": {
+        "xmin": 465,
+        "ymin": 561,
+        "xmax": 720,
+        "ymax": 816,
+        "width": 255
+      }
+    },
+    {
+      "frame_id": "155",
+      "full_image": "155_full.webp",
+      "face_image": "155_face.webp",
+      "tensor_file": "155_tensor.bin",
+      "crop_info": {
+        "xmin": 465,
+        "ymin": 560,
+        "xmax": 720,
+        "ymax": 815,
+        "width": 255
+      }
+    },
+    {
+      "frame_id": "156",
+      "full_image": "156_full.webp",
+      "face_image": "156_face.webp",
+      "tensor_file": "156_tensor.bin",
+      "crop_info": {
+        "xmin": 466,
+        "ymin": 560,
+        "xmax": 720,
+        "ymax": 814,
+        "width": 254
+      }
+    },
+    {
+      "frame_id": "157",
+      "full_image": "157_full.webp",
+      "face_image": "157_face.webp",
+      "tensor_file": "157_tensor.bin",
+      "crop_info": {
+        "xmin": 467,
+        "ymin": 560,
+        "xmax": 719,
+        "ymax": 812,
+        "width": 252
+      }
+    },
+    {
+      "frame_id": "158",
+      "full_image": "158_full.webp",
+      "face_image": "158_face.webp",
+      "tensor_file": "158_tensor.bin",
+      "crop_info": {
+        "xmin": 467,
+        "ymin": 560,
+        "xmax": 719,
+        "ymax": 812,
+        "width": 252
+      }
+    },
+    {
+      "frame_id": "159",
+      "full_image": "159_full.webp",
+      "face_image": "159_face.webp",
+      "tensor_file": "159_tensor.bin",
+      "crop_info": {
+        "xmin": 468,
+        "ymin": 560,
+        "xmax": 719,
+        "ymax": 811,
+        "width": 251
+      }
+    },
+    {
+      "frame_id": "160",
+      "full_image": "160_full.webp",
+      "face_image": "160_face.webp",
+      "tensor_file": "160_tensor.bin",
+      "crop_info": {
+        "xmin": 468,
+        "ymin": 560,
+        "xmax": 717,
+        "ymax": 809,
+        "width": 249
+      }
+    },
+    {
+      "frame_id": "161",
+      "full_image": "161_full.webp",
+      "face_image": "161_face.webp",
+      "tensor_file": "161_tensor.bin",
+      "crop_info": {
+        "xmin": 469,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 807,
+        "width": 248
+      }
+    },
+    {
+      "frame_id": "162",
+      "full_image": "162_full.webp",
+      "face_image": "162_face.webp",
+      "tensor_file": "162_tensor.bin",
+      "crop_info": {
+        "xmin": 470,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 806,
+        "width": 247
+      }
+    },
+    {
+      "frame_id": "163",
+      "full_image": "163_full.webp",
+      "face_image": "163_face.webp",
+      "tensor_file": "163_tensor.bin",
+      "crop_info": {
+        "xmin": 470,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 806,
+        "width": 247
+      }
+    },
+    {
+      "frame_id": "164",
+      "full_image": "164_full.webp",
+      "face_image": "164_face.webp",
+      "tensor_file": "164_tensor.bin",
+      "crop_info": {
+        "xmin": 470,
+        "ymin": 559,
+        "xmax": 717,
+        "ymax": 806,
+        "width": 247
+      }
+    },
+    {
+      "frame_id": "165",
+      "full_image": "165_full.webp",
+      "face_image": "165_face.webp",
+      "tensor_file": "165_tensor.bin",
+      "crop_info": {
+        "xmin": 471,
+        "ymin": 559,
+        "xmax": 716,
+        "ymax": 804,
+        "width": 245
+      }
+    },
+    {
+      "frame_id": "166",
+      "full_image": "166_full.webp",
+      "face_image": "166_face.webp",
+      "tensor_file": "166_tensor.bin",
+      "crop_info": {
+        "xmin": 471,
+        "ymin": 559,
+        "xmax": 716,
+        "ymax": 804,
+        "width": 245
+      }
+    },
+    {
+      "frame_id": "167",
+      "full_image": "167_full.webp",
+      "face_image": "167_face.webp",
+      "tensor_file": "167_tensor.bin",
+      "crop_info": {
+        "xmin": 472,
+        "ymin": 559,
+        "xmax": 716,
+        "ymax": 803,
+        "width": 244
+      }
+    },
+    {
+      "frame_id": "168",
+      "full_image": "168_full.webp",
+      "face_image": "168_face.webp",
+      "tensor_file": "168_tensor.bin",
+      "crop_info": {
+        "xmin": 473,
+        "ymin": 558,
+        "xmax": 716,
+        "ymax": 801,
+        "width": 243
+      }
+    },
+    {
+      "frame_id": "169",
+      "full_image": "169_full.webp",
+      "face_image": "169_face.webp",
+      "tensor_file": "169_tensor.bin",
+      "crop_info": {
+        "xmin": 473,
+        "ymin": 559,
+        "xmax": 715,
+        "ymax": 801,
+        "width": 242
+      }
+    },
+    {
+      "frame_id": "170",
+      "full_image": "170_full.webp",
+      "face_image": "170_face.webp",
+      "tensor_file": "170_tensor.bin",
+      "crop_info": {
+        "xmin": 473,
+        "ymin": 559,
+        "xmax": 715,
+        "ymax": 801,
+        "width": 242
+      }
+    },
+    {
+      "frame_id": "171",
+      "full_image": "171_full.webp",
+      "face_image": "171_face.webp",
+      "tensor_file": "171_tensor.bin",
+      "crop_info": {
+        "xmin": 475,
+        "ymin": 559,
+        "xmax": 715,
+        "ymax": 799,
+        "width": 240
+      }
+    },
+    {
+      "frame_id": "172",
+      "full_image": "172_full.webp",
+      "face_image": "172_face.webp",
+      "tensor_file": "172_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 714,
+        "ymax": 797,
+        "width": 238
+      }
+    },
+    {
+      "frame_id": "173",
+      "full_image": "173_full.webp",
+      "face_image": "173_face.webp",
+      "tensor_file": "173_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 796,
+        "width": 237
+      }
+    },
+    {
+      "frame_id": "174",
+      "full_image": "174_full.webp",
+      "face_image": "174_face.webp",
+      "tensor_file": "174_tensor.bin",
+      "crop_info": {
+        "xmin": 476,
+        "ymin": 559,
+        "xmax": 714,
+        "ymax": 797,
+        "width": 238
+      }
+    },
+    {
+      "frame_id": "175",
+      "full_image": "175_full.webp",
+      "face_image": "175_face.webp",
+      "tensor_file": "175_tensor.bin",
+      "crop_info": {
+        "xmin": 477,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 795,
+        "width": 236
+      }
+    },
+    {
+      "frame_id": "176",
+      "full_image": "176_full.webp",
+      "face_image": "176_face.webp",
+      "tensor_file": "176_tensor.bin",
+      "crop_info": {
+        "xmin": 477,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 795,
+        "width": 236
+      }
+    },
+    {
+      "frame_id": "177",
+      "full_image": "177_full.webp",
+      "face_image": "177_face.webp",
+      "tensor_file": "177_tensor.bin",
+      "crop_info": {
+        "xmin": 478,
+        "ymin": 559,
+        "xmax": 713,
+        "ymax": 794,
+        "width": 235
+      }
+    },
+    {
+      "frame_id": "178",
+      "full_image": "178_full.webp",
+      "face_image": "178_face.webp",
+      "tensor_file": "178_tensor.bin",
+      "crop_info": {
+        "xmin": 478,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 793,
+        "width": 234
+      }
+    },
+    {
+      "frame_id": "179",
+      "full_image": "179_full.webp",
+      "face_image": "179_face.webp",
+      "tensor_file": "179_tensor.bin",
+      "crop_info": {
+        "xmin": 479,
+        "ymin": 559,
+        "xmax": 712,
+        "ymax": 792,
+        "width": 233
+      }
+    },
+    {
+      "frame_id": "180",
+      "full_image": "180_full.webp",
+      "face_image": "180_face.webp",
+      "tensor_file": "180_tensor.bin",
+      "crop_info": {
+        "xmin": 479,
+        "ymin": 560,
+        "xmax": 711,
+        "ymax": 792,
+        "width": 232
+      }
+    },
+    {
+      "frame_id": "181",
+      "full_image": "181_full.webp",
+      "face_image": "181_face.webp",
+      "tensor_file": "181_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 560,
+        "xmax": 711,
+        "ymax": 791,
+        "width": 231
+      }
+    },
+    {
+      "frame_id": "182",
+      "full_image": "182_full.webp",
+      "face_image": "182_face.webp",
+      "tensor_file": "182_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 560,
+        "xmax": 711,
+        "ymax": 791,
+        "width": 231
+      }
+    },
+    {
+      "frame_id": "183",
+      "full_image": "183_full.webp",
+      "face_image": "183_face.webp",
+      "tensor_file": "183_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 559,
+        "xmax": 710,
+        "ymax": 789,
+        "width": 230
+      }
+    },
+    {
+      "frame_id": "184",
+      "full_image": "184_full.webp",
+      "face_image": "184_face.webp",
+      "tensor_file": "184_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 710,
+        "ymax": 788,
+        "width": 229
+      }
+    },
+    {
+      "frame_id": "185",
+      "full_image": "185_full.webp",
+      "face_image": "185_face.webp",
+      "tensor_file": "185_tensor.bin",
+      "crop_info": {
+        "xmin": 480,
+        "ymin": 559,
+        "xmax": 709,
+        "ymax": 788,
+        "width": 229
+      }
+    },
+    {
+      "frame_id": "186",
+      "full_image": "186_full.webp",
+      "face_image": "186_face.webp",
+      "tensor_file": "186_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 560,
+        "xmax": 709,
+        "ymax": 788,
+        "width": 228
+      }
+    },
+    {
+      "frame_id": "187",
+      "full_image": "187_full.webp",
+      "face_image": "187_face.webp",
+      "tensor_file": "187_tensor.bin",
+      "crop_info": {
+        "xmin": 481,
+        "ymin": 559,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 227
+      }
+    },
+    {
+      "frame_id": "188",
+      "full_image": "188_full.webp",
+      "face_image": "188_face.webp",
+      "tensor_file": "188_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 559,
+        "xmax": 709,
+        "ymax": 786,
+        "width": 227
+      }
+    },
+    {
+      "frame_id": "189",
+      "full_image": "189_full.webp",
+      "face_image": "189_face.webp",
+      "tensor_file": "189_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 560,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 226
+      }
+    },
+    {
+      "frame_id": "190",
+      "full_image": "190_full.webp",
+      "face_image": "190_face.webp",
+      "tensor_file": "190_tensor.bin",
+      "crop_info": {
+        "xmin": 482,
+        "ymin": 560,
+        "xmax": 708,
+        "ymax": 786,
+        "width": 226
+      }
+    },
+    {
+      "frame_id": "191",
+      "full_image": "191_full.webp",
+      "face_image": "191_face.webp",
+      "tensor_file": "191_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "192",
+      "full_image": "192_full.webp",
+      "face_image": "192_face.webp",
+      "tensor_file": "192_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "193",
+      "full_image": "193_full.webp",
+      "face_image": "193_face.webp",
+      "tensor_file": "193_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 707,
+        "ymax": 784,
+        "width": 224
+      }
+    },
+    {
+      "frame_id": "194",
+      "full_image": "194_full.webp",
+      "face_image": "194_face.webp",
+      "tensor_file": "194_tensor.bin",
+      "crop_info": {
+        "xmin": 483,
+        "ymin": 560,
+        "xmax": 706,
+        "ymax": 783,
+        "width": 223
+      }
+    },
+    {
+      "frame_id": "195",
+      "full_image": "195_full.webp",
+      "face_image": "195_face.webp",
+      "tensor_file": "195_tensor.bin",
+      "crop_info": {
+        "xmin": 484,
+        "ymin": 560,
+        "xmax": 706,
+        "ymax": 782,
+        "width": 222
+      }
+    },
+    {
+      "frame_id": "196",
+      "full_image": "196_full.webp",
+      "face_image": "196_face.webp",
+      "tensor_file": "196_tensor.bin",
+      "crop_info": {
+        "xmin": 484,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 781,
+        "width": 221
+      }
+    },
+    {
+      "frame_id": "197",
+      "full_image": "197_full.webp",
+      "face_image": "197_face.webp",
+      "tensor_file": "197_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "198",
+      "full_image": "198_full.webp",
+      "face_image": "198_face.webp",
+      "tensor_file": "198_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "199",
+      "full_image": "199_full.webp",
+      "face_image": "199_face.webp",
+      "tensor_file": "199_tensor.bin",
+      "crop_info": {
+        "xmin": 485,
+        "ymin": 560,
+        "xmax": 705,
+        "ymax": 780,
+        "width": 220
+      }
+    },
+    {
+      "frame_id": "200",
+      "full_image": "200_full.webp",
+      "face_image": "200_face.webp",
+      "tensor_file": "200_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 704,
+        "ymax": 778,
+        "width": 218
+      }
+    },
+    {
+      "frame_id": "201",
+      "full_image": "201_full.webp",
+      "face_image": "201_face.webp",
+      "tensor_file": "201_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 704,
+        "ymax": 778,
+        "width": 218
+      }
+    },
+    {
+      "frame_id": "202",
+      "full_image": "202_full.webp",
+      "face_image": "202_face.webp",
+      "tensor_file": "202_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 703,
+        "ymax": 777,
+        "width": 217
+      }
+    },
+    {
+      "frame_id": "203",
+      "full_image": "203_full.webp",
+      "face_image": "203_face.webp",
+      "tensor_file": "203_tensor.bin",
+      "crop_info": {
+        "xmin": 486,
+        "ymin": 560,
+        "xmax": 703,
+        "ymax": 777,
+        "width": 217
+      }
+    },
+    {
+      "frame_id": "204",
+      "full_image": "204_full.webp",
+      "face_image": "204_face.webp",
+      "tensor_file": "204_tensor.bin",
+      "crop_info": {
+        "xmin": 487,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 775,
+        "width": 215
+      }
+    },
+    {
+      "frame_id": "205",
+      "full_image": "205_full.webp",
+      "face_image": "205_face.webp",
+      "tensor_file": "205_tensor.bin",
+      "crop_info": {
+        "xmin": 487,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 775,
+        "width": 215
+      }
+    },
+    {
+      "frame_id": "206",
+      "full_image": "206_full.webp",
+      "face_image": "206_face.webp",
+      "tensor_file": "206_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 702,
+        "ymax": 774,
+        "width": 214
+      }
+    },
+    {
+      "frame_id": "207",
+      "full_image": "207_full.webp",
+      "face_image": "207_face.webp",
+      "tensor_file": "207_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "208",
+      "full_image": "208_full.webp",
+      "face_image": "208_face.webp",
+      "tensor_file": "208_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "209",
+      "full_image": "209_full.webp",
+      "face_image": "209_face.webp",
+      "tensor_file": "209_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 701,
+        "ymax": 773,
+        "width": 213
+      }
+    },
+    {
+      "frame_id": "210",
+      "full_image": "210_full.webp",
+      "face_image": "210_face.webp",
+      "tensor_file": "210_tensor.bin",
+      "crop_info": {
+        "xmin": 488,
+        "ymin": 560,
+        "xmax": 700,
+        "ymax": 772,
+        "width": 212
+      }
+    },
+    {
+      "frame_id": "211",
+      "full_image": "211_full.webp",
+      "face_image": "211_face.webp",
+      "tensor_file": "211_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 700,
+        "ymax": 772,
+        "width": 211
+      }
+    },
+    {
+      "frame_id": "212",
+      "full_image": "212_full.webp",
+      "face_image": "212_face.webp",
+      "tensor_file": "212_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 210
+      }
+    },
+    {
+      "frame_id": "213",
+      "full_image": "213_full.webp",
+      "face_image": "213_face.webp",
+      "tensor_file": "213_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 210
+      }
+    },
+    {
+      "frame_id": "214",
+      "full_image": "214_full.webp",
+      "face_image": "214_face.webp",
+      "tensor_file": "214_tensor.bin",
+      "crop_info": {
+        "xmin": 489,
+        "ymin": 561,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 210
+      }
+    },
+    {
+      "frame_id": "215",
+      "full_image": "215_full.webp",
+      "face_image": "215_face.webp",
+      "tensor_file": "215_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 209
+      }
+    },
+    {
+      "frame_id": "216",
+      "full_image": "216_full.webp",
+      "face_image": "216_face.webp",
+      "tensor_file": "216_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 699,
+        "ymax": 771,
+        "width": 209
+      }
+    },
+    {
+      "frame_id": "217",
+      "full_image": "217_full.webp",
+      "face_image": "217_face.webp",
+      "tensor_file": "217_tensor.bin",
+      "crop_info": {
+        "xmin": 490,
+        "ymin": 562,
+        "xmax": 698,
+        "ymax": 770,
+        "width": 208
+      }
+    },
+    {
+      "frame_id": "218",
+      "full_image": "218_full.webp",
+      "face_image": "218_face.webp",
+      "tensor_file": "218_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 562,
+        "xmax": 698,
+        "ymax": 769,
+        "width": 207
+      }
+    },
+    {
+      "frame_id": "219",
+      "full_image": "219_full.webp",
+      "face_image": "219_face.webp",
+      "tensor_file": "219_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 769,
+        "width": 206
+      }
+    },
+    {
+      "frame_id": "220",
+      "full_image": "220_full.webp",
+      "face_image": "220_face.webp",
+      "tensor_file": "220_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 769,
+        "width": 206
+      }
+    },
+    {
+      "frame_id": "221",
+      "full_image": "221_full.webp",
+      "face_image": "221_face.webp",
+      "tensor_file": "221_tensor.bin",
+      "crop_info": {
+        "xmin": 491,
+        "ymin": 563,
+        "xmax": 697,
+        "ymax": 769,
+        "width": 206
+      }
+    },
+    {
+      "frame_id": "222",
+      "full_image": "222_full.webp",
+      "face_image": "222_face.webp",
+      "tensor_file": "222_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 563,
+        "xmax": 696,
+        "ymax": 767,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "223",
+      "full_image": "223_full.webp",
+      "face_image": "223_face.webp",
+      "tensor_file": "223_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 563,
+        "xmax": 696,
+        "ymax": 767,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "224",
+      "full_image": "224_full.webp",
+      "face_image": "224_face.webp",
+      "tensor_file": "224_tensor.bin",
+      "crop_info": {
+        "xmin": 492,
+        "ymin": 564,
+        "xmax": 696,
+        "ymax": 768,
+        "width": 204
+      }
+    },
+    {
+      "frame_id": "225",
+      "full_image": "225_full.webp",
+      "face_image": "225_face.webp",
+      "tensor_file": "225_tensor.bin",
+      "crop_info": {
+        "xmin": 493,
+        "ymin": 564,
+        "xmax": 696,
+        "ymax": 767,
+        "width": 203
+      }
+    },
+    {
+      "frame_id": "226",
+      "full_image": "226_full.webp",
+      "face_image": "226_face.webp",
+      "tensor_file": "226_tensor.bin",
+      "crop_info": {
+        "xmin": 493,
+        "ymin": 564,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 202
+      }
+    },
+    {
+      "frame_id": "227",
+      "full_image": "227_full.webp",
+      "face_image": "227_face.webp",
+      "tensor_file": "227_tensor.bin",
+      "crop_info": {
+        "xmin": 493,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 767,
+        "width": 202
+      }
+    },
+    {
+      "frame_id": "228",
+      "full_image": "228_full.webp",
+      "face_image": "228_face.webp",
+      "tensor_file": "228_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "229",
+      "full_image": "229_full.webp",
+      "face_image": "229_face.webp",
+      "tensor_file": "229_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "230",
+      "full_image": "230_full.webp",
+      "face_image": "230_face.webp",
+      "tensor_file": "230_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "231",
+      "full_image": "231_full.webp",
+      "face_image": "231_face.webp",
+      "tensor_file": "231_tensor.bin",
+      "crop_info": {
+        "xmin": 494,
+        "ymin": 565,
+        "xmax": 695,
+        "ymax": 766,
+        "width": 201
+      }
+    },
+    {
+      "frame_id": "232",
+      "full_image": "232_full.webp",
+      "face_image": "232_face.webp",
+      "tensor_file": "232_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "233",
+      "full_image": "233_full.webp",
+      "face_image": "233_face.webp",
+      "tensor_file": "233_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "234",
+      "full_image": "234_full.webp",
+      "face_image": "234_face.webp",
+      "tensor_file": "234_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "235",
+      "full_image": "235_full.webp",
+      "face_image": "235_face.webp",
+      "tensor_file": "235_tensor.bin",
+      "crop_info": {
+        "xmin": 495,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 199
+      }
+    },
+    {
+      "frame_id": "236",
+      "full_image": "236_full.webp",
+      "face_image": "236_face.webp",
+      "tensor_file": "236_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 566,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "237",
+      "full_image": "237_full.webp",
+      "face_image": "237_face.webp",
+      "tensor_file": "237_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "238",
+      "full_image": "238_full.webp",
+      "face_image": "238_face.webp",
+      "tensor_file": "238_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 694,
+        "ymax": 765,
+        "width": 198
+      }
+    },
+    {
+      "frame_id": "239",
+      "full_image": "239_full.webp",
+      "face_image": "239_face.webp",
+      "tensor_file": "239_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "240",
+      "full_image": "240_full.webp",
+      "face_image": "240_face.webp",
+      "tensor_file": "240_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "241",
+      "full_image": "241_full.webp",
+      "face_image": "241_face.webp",
+      "tensor_file": "241_tensor.bin",
+      "crop_info": {
+        "xmin": 496,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 197
+      }
+    },
+    {
+      "frame_id": "242",
+      "full_image": "242_full.webp",
+      "face_image": "242_face.webp",
+      "tensor_file": "242_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 567,
+        "xmax": 693,
+        "ymax": 763,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "243",
+      "full_image": "243_full.webp",
+      "face_image": "243_face.webp",
+      "tensor_file": "243_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 568,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "244",
+      "full_image": "244_full.webp",
+      "face_image": "244_face.webp",
+      "tensor_file": "244_tensor.bin",
+      "crop_info": {
+        "xmin": 497,
+        "ymin": 568,
+        "xmax": 693,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "245",
+      "full_image": "245_full.webp",
+      "face_image": "245_face.webp",
+      "tensor_file": "245_tensor.bin",
+      "crop_info": {
+        "xmin": 498,
+        "ymin": 568,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "246",
+      "full_image": "246_full.webp",
+      "face_image": "246_face.webp",
+      "tensor_file": "246_tensor.bin",
+      "crop_info": {
+        "xmin": 498,
+        "ymin": 568,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 196
+      }
+    },
+    {
+      "frame_id": "247",
+      "full_image": "247_full.webp",
+      "face_image": "247_face.webp",
+      "tensor_file": "247_tensor.bin",
+      "crop_info": {
+        "xmin": 499,
+        "ymin": 568,
+        "xmax": 694,
+        "ymax": 763,
+        "width": 195
+      }
+    },
+    {
+      "frame_id": "248",
+      "full_image": "248_full.webp",
+      "face_image": "248_face.webp",
+      "tensor_file": "248_tensor.bin",
+      "crop_info": {
+        "xmin": 499,
+        "ymin": 569,
+        "xmax": 693,
+        "ymax": 763,
+        "width": 194
+      }
+    },
+    {
+      "frame_id": "249",
+      "full_image": "249_full.webp",
+      "face_image": "249_face.webp",
+      "tensor_file": "249_tensor.bin",
+      "crop_info": {
+        "xmin": 499,
+        "ymin": 569,
+        "xmax": 694,
+        "ymax": 764,
+        "width": 195
+      }
+    }
+  ]
+}
