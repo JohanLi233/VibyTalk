@@ -9,6 +9,14 @@ https://github.com/user-attachments/assets/c8746006-6dcc-41b1-a3d3-bdd25530459c
 
 ## Quick Start
 
+### 0. Install
+
+Install UV then run
+
+```bash
+uv sync
+```
+
 ### 1. Prepare Video Data
 Record a 3-minute video of yourself speaking clearly. Ensure good lighting and audio quality or use synthesized data.
 
